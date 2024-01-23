@@ -2,10 +2,10 @@
 
   Passionate Cyber Security Professional
 
-<h2>👨‍💻 Azure/Cloud Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Azure/Cloud Projects</b>
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/Efoster1991/Azure-Cloud-SOC-Lab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
